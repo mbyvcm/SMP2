@@ -4,7 +4,7 @@ once the app has completed
 Description: CRUK BaseSpace app pipeline
 Author: Sara Rey
 Status: RELEASE
-Version: "1.1.1"
+Version: "1.1.2"
 */
 
 "use strict";
